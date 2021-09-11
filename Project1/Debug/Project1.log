@@ -1,0 +1,13 @@
+﻿  源.c
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(45,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(50,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(61,16): warning C4101: “i”: 未引用的局部变量
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(134,113): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(126,16): warning C4101: “i”: 未引用的局部变量
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(152,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(163,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(167,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(177,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(181,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\源.c(219,21): warning C4101: “input”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\jh628\Desktop\Pivot\cgcl\Linux_symtable\Project1\Debug\Project1.exe
